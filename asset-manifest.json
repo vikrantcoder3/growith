@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/growith/static/css/main.2bcf6516.chunk.css",
+    "main.js": "/growith/static/js/main.488b78e3.chunk.js",
+    "main.js.map": "/growith/static/js/main.488b78e3.chunk.js.map",
+    "runtime-main.js": "/growith/static/js/runtime-main.94d95fc3.js",
+    "runtime-main.js.map": "/growith/static/js/runtime-main.94d95fc3.js.map",
+    "static/css/2.6293a573.chunk.css": "/growith/static/css/2.6293a573.chunk.css",
+    "static/js/2.2e08b5d1.chunk.js": "/growith/static/js/2.2e08b5d1.chunk.js",
+    "static/js/2.2e08b5d1.chunk.js.map": "/growith/static/js/2.2e08b5d1.chunk.js.map",
+    "index.html": "/growith/index.html",
+    "static/css/2.6293a573.chunk.css.map": "/growith/static/css/2.6293a573.chunk.css.map",
+    "static/css/main.2bcf6516.chunk.css.map": "/growith/static/css/main.2bcf6516.chunk.css.map",
+    "static/js/2.2e08b5d1.chunk.js.LICENSE.txt": "/growith/static/js/2.2e08b5d1.chunk.js.LICENSE.txt",
+    "static/media/Aboutpic.9d13bdae.png": "/growith/static/media/Aboutpic.9d13bdae.png",
+    "static/media/Webd.e1a2a658.jpg": "/growith/static/media/Webd.e1a2a658.jpg",
+    "static/media/androidpic.fc2cf39b.jpg": "/growith/static/media/androidpic.fc2cf39b.jpg",
+    "static/media/appdev.3e27fcae.jpg": "/growith/static/media/appdev.3e27fcae.jpg",
+    "static/media/cardimg1.e9b31d25.jpg": "/growith/static/media/cardimg1.e9b31d25.jpg",
+    "static/media/digitalmarketing.0eac75f4.jpg": "/growith/static/media/digitalmarketing.0eac75f4.jpg",
+    "static/media/lapwork.11a987da.svg": "/growith/static/media/lapwork.11a987da.svg",
+    "static/media/marketing.1a5f1f36.jpg": "/growith/static/media/marketing.1a5f1f36.jpg",
+    "static/media/software.5f43df11.jpg": "/growith/static/media/software.5f43df11.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94d95fc3.js",
+    "static/css/2.6293a573.chunk.css",
+    "static/js/2.2e08b5d1.chunk.js",
+    "static/css/main.2bcf6516.chunk.css",
+    "static/js/main.488b78e3.chunk.js"
+  ]
+}
